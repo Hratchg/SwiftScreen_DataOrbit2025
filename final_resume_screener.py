@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1FpJgyQsiB_pQLsqRdG-R44PBo-zMtaDy
 """
 
-d!pip install sentence-transformers torch scikit-learn transformers
+# Requirements: pip install sentence-transformers torch scikit-learn transformers ipywidgets
 
 import numpy as np
 
